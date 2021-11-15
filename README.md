@@ -12,9 +12,9 @@
 <a>![]<images/></a>
 
 <h3>Adding</h3>
-<h5> Here user can add in his list, user can make their list according to their need.</h5>
+<h5> Here user can add in his list, user can make their list according to their need by clicking on the add buttom.</h5>
 <a>![]<images/></a>
 
 <h3>Deleting</h3>
-<h5> Here user can delete from his list, here user can delete item from their list to.</h5>
+<h5> Here user can delete from his list, here user can delete item from their list to, by check the checkbox.</h5>
 <a>![]<images/></a>
