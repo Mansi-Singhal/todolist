@@ -9,12 +9,12 @@
 
 <h3>Welcome Page</h3>
 <h5> Here user can add and delete in his list, here user can make todo(regular working list)list.</h5>
-<a>![]<images/></a>
+<img src="images/welcome.png" alt="wlcm">
 
 <h3>Adding</h3>
 <h5> Here user can add in his list, user can make their list according to their need by clicking on the add buttom.</h5>
-<a>![]<images/></a>
+<img src="images/add.png" alt="add">
 
 <h3>Deleting</h3>
-<h5> Here user can delete from his list, here user can delete item from their list to, by check the checkbox.</h5>
-<a>![]<images/></a>
+<h5> Here user can delete from his list, here user can delete item from their list to, by check the checkbox. Afterthat, that item will remove from the list.</h5>
+<img src="images/delete.png" alt="delete">
